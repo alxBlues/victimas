@@ -1,0 +1,24 @@
+.logoMaat {
+	max-width: 120px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #88C100;
+    border-color: #88C100;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #056B08;
+    border-color: #056B08;
+}
+
+a {
+    color: #88C100;
+}
+
+form {
+	margin-bottom: 0 !important;
+	margin-block-end: 0 !important;
+}
